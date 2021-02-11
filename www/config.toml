@@ -1,0 +1,4 @@
+baseURL = "http://LiuHao321.github.io/"
+languageCode = "en-zh"
+title = "Haus' Blog"
+theme = "hyde"
